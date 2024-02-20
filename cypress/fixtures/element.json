@@ -1,0 +1,9 @@
+{
+  "userElement":{
+    "progressbarLink": "a[href ='/progressbar']",
+    "startButton": "#startButton",
+    "progressBar": "#progressBar",
+    "stopButton": "#stopButton"
+  }
+}
+  
